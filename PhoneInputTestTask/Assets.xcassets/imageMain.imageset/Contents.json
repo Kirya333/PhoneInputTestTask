@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "streamline-icon-enter-password-1@400x400 1 (Traced).png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "localizable" : true
+  }
+}
